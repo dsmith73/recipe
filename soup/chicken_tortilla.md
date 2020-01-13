@@ -5,7 +5,7 @@ This soup is quick to make, flavorful, and filling! Serve with warm corn bread o
 
 ### Ingredients  
 |  Quantity     |  Ingredient          |  Notes                            |  
-| ------------- |:--------------------:| ---------------------------------:|  
+| ------------- |--------------------| ---------------------------------|  
 |      1        |  onion               |  chopped                          |    
 |  3  cloves    |   garlic       |  minced                           |  
 | 1 tablespoon |olive oil  |   |  
