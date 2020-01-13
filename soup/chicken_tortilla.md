@@ -2,7 +2,6 @@
 This soup is quick to make, flavorful, and filling! Serve with warm corn bread or tortillas. This also freezes well. Garnish with chopped fresh avocado, Monterey Jack cheese, crushed tortilla chips, or green onion!  
 </br>
 </br>
-</br>
 
 ### Ingredients  
 |  Quantity     |  Ingredient          |  Notes                            |  
