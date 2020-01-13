@@ -5,4 +5,4 @@ You can use the [editor on GitHub](https://github.com/dsmith73/recipe/edit/maste
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Soup  
-  - [Chicken Tortilla](/soup/chicken_tortilla)
+  - [Chicken Tortilla](/soup/chicken_tortilla.md)
